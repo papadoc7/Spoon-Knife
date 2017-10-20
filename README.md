@@ -1,4 +1,12 @@
-### The Spoon-Knife Repository
+# Change the title
+
+This ReadMe file was updated in order to understand the difference between 2 branches. Specifically between master and change-the-title branch.
+
+## Testing
+
+Updates for testing reasons.
+
+
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
@@ -6,4 +14,4 @@ Creating a *fork* is producing a personal copy of someone else's project. Forks 
 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+
